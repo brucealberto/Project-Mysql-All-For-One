@@ -1,1 +1,1 @@
-SELECT * FROM northwind.products id;
+DELETE FROM northwind.order_details
